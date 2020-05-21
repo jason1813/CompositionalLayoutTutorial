@@ -8,26 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		5394F02521864DF5006E754C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5394F02321864DF4006E754C /* LaunchScreen.storyboard */; };
+		96950E9B2476F4A000F6E16F /* Night photography in Resources */ = {isa = PBXBuildFile; fileRef = 96950E952476F49E00F6E16F /* Night photography */; };
+		96950E9C2476F4A000F6E16F /* Lyngen in Resources */ = {isa = PBXBuildFile; fileRef = 96950E962476F49E00F6E16F /* Lyngen */; };
+		96950E9D2476F4A000F6E16F /* alta_via_1 in Resources */ = {isa = PBXBuildFile; fileRef = 96950E972476F49F00F6E16F /* alta_via_1 */; };
+		96950E9E2476F4A000F6E16F /* Cairngorms in Resources */ = {isa = PBXBuildFile; fileRef = 96950E982476F49F00F6E16F /* Cairngorms */; };
+		96950E9F2476F4A000F6E16F /* alta_via_2 in Resources */ = {isa = PBXBuildFile; fileRef = 96950E992476F4A000F6E16F /* alta_via_2 */; };
+		96950EA02476F4A000F6E16F /* Mera_Peak in Resources */ = {isa = PBXBuildFile; fileRef = 96950E9A2476F4A000F6E16F /* Mera_Peak */; };
 		D2A5F20B1F4A9144005CD714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A5F20A1F4A9144005CD714 /* Assets.xcassets */; };
 		D2A5F2211F4A96D0005CD714 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A5F2201F4A96D0005CD714 /* AppDelegate.swift */; };
 		E217B20F230A87AD008C5045 /* PhotoData.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E217B207230A8761008C5045 /* PhotoData.bundle */; };
 		E2288A33230C9D2900C76AE4 /* SyncingBadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A32230C9D2900C76AE4 /* SyncingBadgeView.swift */; };
-		E2288A37230CA22800C76AE4 /* Lyngen in Resources */ = {isa = PBXBuildFile; fileRef = E2288A34230CA22800C76AE4 /* Lyngen */; };
-		E2288A38230CA22800C76AE4 /* alta_via_1 in Resources */ = {isa = PBXBuildFile; fileRef = E2288A35230CA22800C76AE4 /* alta_via_1 */; };
 		E2288A3C230CAD7500C76AE4 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A3B230CAD7500C76AE4 /* StringExtension.swift */; };
 		E2288A3F230D2C8200C76AE4 /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A3E230D2C8200C76AE4 /* PhotoDetailViewController.swift */; };
 		E2288A41230D329800C76AE4 /* AlbumsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A40230D329800C76AE4 /* AlbumsViewController.swift */; };
 		E2288A43230D330D00C76AE4 /* AlbumItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A42230D330D00C76AE4 /* AlbumItem.swift */; };
 		E2288A45230D375300C76AE4 /* AlbumItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2288A44230D375300C76AE4 /* AlbumItemCell.swift */; };
 		E24956B823029CB200D0D46A /* AlbumDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24956B723029CB200D0D46A /* AlbumDetailViewController.swift */; };
-		E27D1B2E230E7C6800DD66D6 /* Mera_Peak in Resources */ = {isa = PBXBuildFile; fileRef = E27D1B2D230E7C6800DD66D6 /* Mera_Peak */; };
 		E27D1B31230E7D4F00DD66D6 /* FileManagerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27D1B30230E7D4F00DD66D6 /* FileManagerExtensions.swift */; };
 		E27D1B33230E8D8500DD66D6 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27D1B32230E8D8500DD66D6 /* HeaderView.swift */; };
 		E27D1B35230EA1FB00DD66D6 /* FeaturedAlbumItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27D1B34230EA1FB00DD66D6 /* FeaturedAlbumItemCell.swift */; };
 		E27D1B37230EA6C300DD66D6 /* SharedAlbumItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27D1B36230EA6C300DD66D6 /* SharedAlbumItemCell.swift */; };
-		E27D1B39230F539600DD66D6 /* Cairngorms in Resources */ = {isa = PBXBuildFile; fileRef = E27D1B38230F539600DD66D6 /* Cairngorms */; };
-		E27D1B3B230F551900DD66D6 /* alta_via_2 in Resources */ = {isa = PBXBuildFile; fileRef = E27D1B3A230F551900DD66D6 /* alta_via_2 */; };
-		E27D1B3D230F562A00DD66D6 /* Night photography in Resources */ = {isa = PBXBuildFile; fileRef = E27D1B3C230F562A00DD66D6 /* Night photography */; };
 		E2A65B53230A791A0078456C /* AlbumDetailItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A65B52230A791A0078456C /* AlbumDetailItem.swift */; };
 		E2A65B55230A7B7F0078456C /* PhotoItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A65B54230A7B7F0078456C /* PhotoItemCell.swift */; };
 /* End PBXBuildFile section */
@@ -44,28 +44,28 @@
 
 /* Begin PBXFileReference section */
 		5394F02421864DF4006E754C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		96950E952476F49E00F6E16F /* Night photography */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Night photography"; sourceTree = "<group>"; };
+		96950E962476F49E00F6E16F /* Lyngen */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lyngen; sourceTree = "<group>"; };
+		96950E972476F49F00F6E16F /* alta_via_1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = alta_via_1; sourceTree = "<group>"; };
+		96950E982476F49F00F6E16F /* Cairngorms */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Cairngorms; sourceTree = "<group>"; };
+		96950E992476F4A000F6E16F /* alta_via_2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = alta_via_2; sourceTree = "<group>"; };
+		96950E9A2476F4A000F6E16F /* Mera_Peak */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Mera_Peak; sourceTree = "<group>"; };
 		D2A5F2001F4A9144005CD714 /* rwotos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rwotos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A5F20A1F4A9144005CD714 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2A5F20F1F4A9144005CD714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2A5F2201F4A96D0005CD714 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E217B207230A8761008C5045 /* PhotoData.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoData.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2288A32230C9D2900C76AE4 /* SyncingBadgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncingBadgeView.swift; sourceTree = "<group>"; };
-		E2288A34230CA22800C76AE4 /* Lyngen */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lyngen; sourceTree = "<group>"; };
-		E2288A35230CA22800C76AE4 /* alta_via_1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = alta_via_1; sourceTree = "<group>"; };
 		E2288A3B230CAD7500C76AE4 /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		E2288A3E230D2C8200C76AE4 /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 		E2288A40230D329800C76AE4 /* AlbumsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumsViewController.swift; sourceTree = "<group>"; };
 		E2288A42230D330D00C76AE4 /* AlbumItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumItem.swift; sourceTree = "<group>"; };
 		E2288A44230D375300C76AE4 /* AlbumItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumItemCell.swift; sourceTree = "<group>"; };
 		E24956B723029CB200D0D46A /* AlbumDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailViewController.swift; sourceTree = "<group>"; };
-		E27D1B2D230E7C6800DD66D6 /* Mera_Peak */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Mera_Peak; sourceTree = "<group>"; };
 		E27D1B30230E7D4F00DD66D6 /* FileManagerExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerExtensions.swift; sourceTree = "<group>"; };
 		E27D1B32230E8D8500DD66D6 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		E27D1B34230EA1FB00DD66D6 /* FeaturedAlbumItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedAlbumItemCell.swift; sourceTree = "<group>"; };
 		E27D1B36230EA6C300DD66D6 /* SharedAlbumItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedAlbumItemCell.swift; sourceTree = "<group>"; };
-		E27D1B38230F539600DD66D6 /* Cairngorms */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Cairngorms; sourceTree = "<group>"; };
-		E27D1B3A230F551900DD66D6 /* alta_via_2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = alta_via_2; sourceTree = "<group>"; };
-		E27D1B3C230F562A00DD66D6 /* Night photography */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Night photography"; sourceTree = "<group>"; };
 		E2A65B52230A791A0078456C /* AlbumDetailItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailItem.swift; sourceTree = "<group>"; };
 		E2A65B54230A7B7F0078456C /* PhotoItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -120,15 +120,14 @@
 		E217B208230A8761008C5045 /* PhotoData */ = {
 			isa = PBXGroup;
 			children = (
-				E27D1B3C230F562A00DD66D6 /* Night photography */,
-				E27D1B3A230F551900DD66D6 /* alta_via_2 */,
-				E27D1B38230F539600DD66D6 /* Cairngorms */,
-				E27D1B2D230E7C6800DD66D6 /* Mera_Peak */,
-				E2288A35230CA22800C76AE4 /* alta_via_1 */,
-				E2288A34230CA22800C76AE4 /* Lyngen */,
+				96950E972476F49F00F6E16F /* alta_via_1 */,
+				96950E992476F4A000F6E16F /* alta_via_2 */,
+				96950E982476F49F00F6E16F /* Cairngorms */,
+				96950E962476F49E00F6E16F /* Lyngen */,
+				96950E9A2476F4A000F6E16F /* Mera_Peak */,
+				96950E952476F49E00F6E16F /* Night photography */,
 			);
-			name = PhotoData;
-			path = ../PhotoData;
+			path = PhotoData;
 			sourceTree = "<group>";
 		};
 		E2288A31230C9CF400C76AE4 /* SharedViews */ = {
@@ -268,12 +267,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2288A37230CA22800C76AE4 /* Lyngen in Resources */,
-				E27D1B2E230E7C6800DD66D6 /* Mera_Peak in Resources */,
-				E2288A38230CA22800C76AE4 /* alta_via_1 in Resources */,
-				E27D1B39230F539600DD66D6 /* Cairngorms in Resources */,
-				E27D1B3D230F562A00DD66D6 /* Night photography in Resources */,
-				E27D1B3B230F551900DD66D6 /* alta_via_2 in Resources */,
+				96950E9D2476F4A000F6E16F /* alta_via_1 in Resources */,
+				96950E9B2476F4A000F6E16F /* Night photography in Resources */,
+				96950E9C2476F4A000F6E16F /* Lyngen in Resources */,
+				96950E9E2476F4A000F6E16F /* Cairngorms in Resources */,
+				96950EA02476F4A000F6E16F /* Mera_Peak in Resources */,
+				96950E9F2476F4A000F6E16F /* alta_via_2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
